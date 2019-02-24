@@ -143,3 +143,8 @@ ul {
   background-color: pink;
   display: inline-block;
 } 
+.table.table-bordered thead th,
+.table.table-bordered tbody td {
+    text-align: center;
+    vertical-align: middle;
+}

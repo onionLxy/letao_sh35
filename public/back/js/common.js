@@ -45,6 +45,7 @@ $(function() {
     //   发送 ajax 请求, 让服务器端销毁用户的登陆状态
   
     $('#logoutBtn').click(function(){
+     
     $.ajax( {
       type:'get',
       url:'/employee/employeeLogout',
