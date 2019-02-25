@@ -92,9 +92,9 @@ ul {
 .lt_aside .nav .child a {
     padding-left: 60px;
 }
-/* .lt_aside .nav .child {
+.lt_aside .nav .child {
     display: none;
-} */
+}
 
 /* 右边的部分 */
 .lt_main {
